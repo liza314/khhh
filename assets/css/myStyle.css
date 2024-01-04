@@ -1,0 +1,161 @@
+.custom_nav li a {
+  margin-right: 5px !important;
+  margin-left: 5px !important;
+  font-size: 13.7px !important;
+}
+
+.custom_nav a i {
+  margin-right: 2px !important;
+  margin-left: 2px !important;
+}
+
+.mid_custom {
+  padding: 34px 0 !important;
+}
+
+.custom_gap_research {
+  margin-bottom: 10rem !important;
+}
+.custom_card_title {
+  color: black !important;
+  font-size: large;
+  font-weight: 500;
+}
+.custom_card_description {
+  margin-left: 1.1rem;
+  margin-right: 1.1rem;
+  margin-top: 1.2rem;
+  margin-bottom: 4rem;
+  text-align: justify;
+}
+
+.custom_publication_link a {
+  color: #d92cf9 !important;
+  font-weight: 500 !important;
+}
+
+.custom_publication_date {
+  font-size: 16px !important;
+  font-weight: 400 !important;
+}
+.custom_info {
+  color: black !important;
+}
+.custom_card h5 {
+  color: blue !important;
+}
+.custom_card h6 {
+  color: #d92cf9 !important;
+  margin-top: 7px !important;
+  margin-bottom: 7px !important;
+}
+
+.custom_card p {
+  color: black !important;
+  font-weight: 400 !important;
+}
+
+.custom_email {
+  color: blue !important;
+}
+
+.custom_test_score {
+  margin: 10px 0 !important;
+  display: flex !important;
+  align-items: baseline !important;
+}
+
+.custom_test_score h1 {
+  color: black;
+  margin: 5px 0 !important;
+  font-size: 3.7rem !important;
+  font-weight: 500 !important;
+}
+
+.custom_test_score p {
+  color: black !important;
+  font-size: 1.8rem !important;
+  font-weight: 400 !important;
+}
+
+.custom_test_score img {
+  padding: 20px !important;
+  object-fit: cover !important;
+}
+
+.card img {
+  margin: 2rem 0 !important;
+}
+
+/* .custom_gap {
+  margin: 4rem 0 !important;
+} */
+
+.custom_heading {
+  margin: 5rem 0 !important;
+  display: flex !important;
+  justify-content: center !important;
+}
+.custom_heading h1 {
+  font-weight: bold !important;
+  font-size: 7rem;
+}
+.customer_certificate_img {
+  margin: 3rem 0 !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.custom_row {
+  margin: 15px;
+}
+
+.cusotm_hobby {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+/* carousel start here */
+
+.custom_certificate {
+  margin-top: 5rem !important;
+  margin-bottom: 5rem !important;
+}
+
+.custom_certificate_row {
+  margin-top: 5rem !important;
+  margin-bottom: 5rem !important;
+}
+
+.custom_certificate_row img {
+  margin-top: 1.2rem !important;
+  margin-bottom: 1.2rem !important;
+}
+
+.custom_heading {
+  margin-top: 5rem !important;
+  margin-bottom: 5rem !important;
+}
+
+.custom_hobby img {
+  margin-top: 1.2rem !important;
+  margin-bottom: 1.2rem !important;
+}
+
+.custom_submit {
+  background: transparent !important;
+  border: none !important;
+  color: white !important;
+}
+
+.custom_education {
+  padding: 1.2rem !important;
+  margin-top: 2rem !important;
+  margin-bottom: 2rem !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
